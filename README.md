@@ -1,3 +1,3 @@
 # sergioskaik.github.io
-Web-De-EmpresaWeb-De-Empresa
+Web-De-Empresa
 Nóvora empresa de marketing digital, diseño y tecnología.
